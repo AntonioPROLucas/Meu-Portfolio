@@ -7,7 +7,7 @@ const documentacoes = [
     },
     {
         titulo: "Currículo Profissional - Antônio Lucas",
-        link: "file:./src/pdf/Curr%C3%ADculo.pdf", // Substitua pelo caminho correto do seu PDF do currículo
+        link: "file:./src/pdf/Currículo.pdf", // Substitua pelo caminho correto do seu PDF do currículo
         imagem: "./src/img/pdf/curriculo.png",
         descricao: "Visualização detalhada da minha formação acadêmica, stack tecnológica, projetos e certificações."
     }
