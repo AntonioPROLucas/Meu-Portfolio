@@ -12,8 +12,8 @@ const certificados = [
         classe: "certificado ativo",
     },
     {
-        titulo: "Certificado Jornada Inteligencia Artificial",
-        link: "./src/img/certification/Meu-CertificadoHashtag-JornadaIA.png",
+        titulo: "Certificado Imersão Inteligencia Artificial",
+        link: "./src/img/certification/Meu-CertificadoImersaoIA.png",
         alt:"Certificado Hashtag Treinamentos: Jornada IA",
         classe: "certificado ativo",
     },
@@ -24,8 +24,14 @@ const certificados = [
         classe: "certificado ativo",
     },
     {
+        titulo: "Certificado Jornada Inteligencia Artificial",
+        link: "./src/img/certification/Meu-CertificadoHashtag-JornadaIA.png",
+        alt:"Certificado Hashtag Treinamentos: Jornada IA",
+        classe: "certificado",
+    },
+    {
         titulo: "Certificado Intensivao do Javascript",
-        link: "./src/img/certification/Meu-CertifiacadHashtag-IntesivaodoJavascript.png",
+        link: "./src/img/certification/Meu-CertifiacadoHashtag-IntesivaodoJavascript.png",
         alt:"Certificado Hashtag Treinamentos: Intesivão do JS",
         classe: "certificado",
     },

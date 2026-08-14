@@ -7,7 +7,7 @@ const documentacoes = [
     },
     {
         titulo: "Currículo Profissional - Antônio Lucas",
-        link: "./src/pdf/Curriculo.pdf", // Substitua pelo caminho correto do seu PDF do currículo
+        link: "https://raw.githubusercontent.com/AntonioPROLucas/Meu-Portfolio/main/src/pdf/Curriculo.pdf",
         imagem: "./src/img/pdf/curriculo.png",
         descricao: "Visualização detalhada da minha formação acadêmica, stack tecnológica, projetos e certificações."
     }
